@@ -1,0 +1,53 @@
+.textbox-align
+{
+    padding-right: 20px;
+    position: absolute;
+    left: 200px;
+    
+}
+.label-align
+{
+    position: absolute;
+    left: 200px;
+}
+.label-name
+{
+    position: absolute;
+    left: 18px;  
+    padding-right: 200px;
+}
+.label1-name
+{
+    position: absolute;
+    left: 10px;  
+    padding-right: 200px 
+}
+.asterisk
+{
+    color: red;
+}
+.table {
+    
+    width: 100%;
+    
+}
+.label-name1{
+    width: 100%;
+    height: 50px;
+}
+.textarea{
+    padding-right: 1340px;
+    position: absolute;
+    height: 90px;
+}
+
+
+.textbox1-align {
+    padding-left: 20px;
+    position: absolute;
+    left: 200px;
+}
+  
+
+
+
